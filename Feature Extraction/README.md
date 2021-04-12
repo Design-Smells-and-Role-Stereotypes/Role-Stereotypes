@@ -1,5 +1,7 @@
 ## srcML Feature Extraction
 
+[![DOI](https://zenodo.org/badge/345997873.svg)](https://zenodo.org/badge/latestdoi/345997873)
+
 This directory contain source code for the extraction of role-stereotypes classification features.
 
 ### Installation

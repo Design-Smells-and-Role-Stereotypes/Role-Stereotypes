@@ -1,4 +1,6 @@
 ## Role-Stereotypes Feature Extraction
+[![DOI](https://zenodo.org/badge/345997873.svg)](https://zenodo.org/badge/latestdoi/345997873)
+
 This directory provides the step by step guide of setting up and classifying role-stereotypes to one of the six categories i.e. `Service Provider`, `Information Holder`, `Interfacer`, `Controller`, `Coordinator` and `Structurer`.
 
 ### Installation  Setups
